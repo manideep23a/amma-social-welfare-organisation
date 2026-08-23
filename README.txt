@@ -20,3 +20,5 @@ Later:
 - Add official phone, email, address and social links.
 
 The website uses no framework and no external JavaScript library, so it is suitable for GitHub Pages.
+
+Leadership section added: founder-chairman.jpg
