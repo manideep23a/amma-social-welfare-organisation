@@ -1,24 +1,12 @@
-AMMA SOCIAL WELFARE ORGANISATION — FINAL BASIC WEBSITE
-========================================================
-This is a static website for GitHub Pages.
+AMMA SOCIAL WELFARE ORGANISATION — PHOTO GALLERY UPDATE
 
-Upload these files to the ROOT of the repository:
+This package includes the website with the uploaded AMMA programme photographs already placed in the Gallery section.
+
+Files to upload to the GitHub repository root:
 - index.html
 - style.css
 - script.js
 - logo.jpg
+- images/ (entire folder)
 
-Then enable:
-Repository -> Settings -> Pages -> Deploy from a branch -> main -> / (root)
-
-No build command or server is required.
-
-Later:
-- Replace sample text with official information.
-- Replace gallery placeholders with real photos.
-- Replace video placeholders with YouTube embeds.
-- Add official phone, email, address and social links.
-
-The website uses no framework and no external JavaScript library, so it is suitable for GitHub Pages.
-
-Leadership section added: founder-chairman.jpg
+The gallery is professionally arranged with featured service photos, community outreach, blood donation, water service, police/public-service support, awards and recognition. Clicking a photo opens a larger lightbox.
